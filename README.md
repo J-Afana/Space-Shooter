@@ -11,6 +11,7 @@ Project:	We will construct a playable game using Unity for and will use C# for s
 Game details: We will build a space shooter where the player controls a ship as it travels through space destroying obstacles and enemies in their path and avoiding enemy weapons fire and invincible obstacles. The player ship will have weapons as well as mining tools used to get resources from destroyed asteroids as well as scraps from other ships. Other ships will include pirates, or authorities considering your cargo as contraband. Players will earn points to build a high score, and collect currency that they can use to upgrade their ship’s capabilities. There will be several levels that each team member can develop.
 
 Additional features: (wish list)
+Persistant game saves so players can return to where they left off when starting up the game again.
 Multiple weapons/upgrades
 Different ships to choose from
 Missions? (miner or fighter contracts)
@@ -19,9 +20,9 @@ Adventure vs Arcade Mode
 Mobile deployment (android and or IOS)
 
 Sprint plan
-First step: To make sure everyone has their development environment set up and familiarize everyone to a process of how project will be contributed to.
+First step: To make sure everyone has their development environment set up and familiarize everyone to a process of how project will be contributed to. 
 
-Second Step: Organize our to-do list and familiarize everyone on how a user is visibly assigned to different items to be worked on. We will create a backlock full of available items that any of us can pick from to work on.
+Second Step: Organize our to-do list and familiarize everyone on how a user is visibly assigned to different items to be worked on. We will define the project and narrow the scope to achievable milestones. We will divide the project up into items, then create a backlog full of available items that any of us can pick from to work on. 
 
 Third Step: We will meet and discuss the highest priority features and bugs to be worked on for the next sprint to get closer to our goal of a finished product.
 
